@@ -1,0 +1,1 @@
+[{"28.06.2023": {"EUR": {"sale": 41.2, "purchase": 40.2}, "USD": {"sale": 37.25, "purchase": 36.75}}}, {"27.06.2023": {"EUR": {"sale": 41.1, "purchase": 40.1}, "USD": {"sale": 37.25, "purchase": 36.75}}}]
